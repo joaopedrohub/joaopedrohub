@@ -7,6 +7,12 @@
 - Perfil escolar
 - 15 anos (5 de abril meu aniversário quero presentes) 🎁
 
+##
+<div style="display: inline_block">
+   <img align="center" alt="Sara-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Sara-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Sara-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
 
 <!--
 **joaopedrohub/joaopedrohub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
