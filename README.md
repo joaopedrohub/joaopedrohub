@@ -1,6 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=242526&height=120&section=header"/>
 
-### Hi there 👋
+### Oi
+
+- Estudo no ifce
+- Perfil escolar
+- 15 anos (5 de abril meu aniversário quero presentes) 🎁
+
 
 <!--
 **joaopedrohub/joaopedrohub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
