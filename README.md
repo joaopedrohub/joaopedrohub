@@ -5,7 +5,7 @@
 - Me chamo João Pedro
 - Estudo no ifce
 - Perfil escolar
-- 15 anos (5 de abril meu aniversário quero presentes) 🎁
+- 16 anos 🎁
 
 ##
 <div style="display: inline_block">
